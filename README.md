@@ -33,11 +33,11 @@ This dashboard transforms raw sales data into actionable commercial insights. It
 
 ### Overview & KPI Metrics
 *Tracks monthly performance trends, profit distributions, category breakdowns, and segment share.*
-![Sales Dashboard Overview](Screenshot%202026-10-27%20234459.png)
+![Sales Dashboard Overview](Screenshots/salesdashboard.png)
 
 ### Sales Forecasting (2019–2021)
 *Daily sales trend line showing historical fluctuations paired with a statistical forecast model projection into early 2021.*
-![Sales Forecast Chart](Screenshot%202026-10-27%20234516.png)
+![Sales Forecast Chart](Screeshots/salesforcasting.png)
 
 ---
 
