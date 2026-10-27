@@ -37,7 +37,7 @@ This dashboard transforms raw sales data into actionable commercial insights. It
 
 ### Sales Forecasting (2019–2021)
 *Daily sales trend line showing historical fluctuations paired with a statistical forecast model projection into early 2021.*
-![Sales Forecast Chart](Screeshots/salesforcasting.png)
+![Sales Forecast Chart](Screenshots/salesforcasting.png)
 
 ---
 
